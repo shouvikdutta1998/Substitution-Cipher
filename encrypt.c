@@ -1,5 +1,6 @@
 //A SIMPLE LOGICAL BASED SUBSTITUTION CIPHER ENCRYPTOGRAPHY PROGRAM WRITTEN IN C LANGUAGE
 #include<stdio.h>
+#include<conio.h>
 void main()
   {
   clrscr();
